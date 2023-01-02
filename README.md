@@ -10,7 +10,7 @@ I founded and grew Ninja Syndicate into a large team of 50+ web3 builders in Aus
 
 I'm looking to contribute to cutting edge software projects with cool problems to solve. I look forward to collaborating with a remote-first, technical and engaging team.
 
-You can find out more about me on my [personal website](https://jtmn.dev).
+You can find out more on my [personal website](https://jtmn.dev), or contact me directly at john@jtmn.dev.
 
 ## 🏆 My Achievements
 
@@ -45,17 +45,3 @@ The above tools enable a powerful combination of scalability, type safety, maint
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nii236&hide=G-code&theme=synthwave&langs_count=3)
 ![](https://github-readme-stats.vercel.app/api?username=nii236&show_icons=true&theme=synthwave&line_height=27)
 
-<!--
-**nii236/nii236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
