@@ -10,7 +10,7 @@ I founded and grew Ninja Syndicate into a large team of 50+ web3 builders in Aus
 
 I'm looking to contribute to cutting edge software projects with cool problems to solve. I look forward to collaborating with a remote-first, technical and engaging team.
 
-You can find out more about me on my [personal website](https:/jtmn.dev).
+You can find out more about me on my [personal website](https://jtmn.dev).
 
 ## 🏆 My Achievements
 
