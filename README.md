@@ -1,5 +1,7 @@
 ## 👋 About me
 
+> Advisor, Founder Developer, CTO, Software Engineer
+
 <img align="right" width="300" src="https://user-images.githubusercontent.com/4482567/210204039-ecff32ba-bfe3-4b90-83e3-06132de430ec.png">
 
 I am a technical and strategic founder developer experienced in web3, software engineering and building startups over the past 10 years. I operate at the senior software engineer to CTO level depending on the size of the organisation, and am able to develop a company's "zero to one" product.
